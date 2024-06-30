@@ -1,84 +1,73 @@
-/* ESTRUCTURA
-                        Palabra/letra (gramatica) {significado / sinonimos} 
-                            ...
-                        [palabra / letra] (pronunciacion)
-                            _letra: significa que se prenuncia pero muy debil, esto solo cuenta para la primera letra despues del "_"
-                            //dato relevante sobre la palabra y/o letra
-*/
+# palabra en español
+  palabra en portugues
+  [pronunciacion]
+  /*significado en español*/
 
-- #    {}
-    ...
-    []
-
+Eu: [] /*a*/
+Você: [] /*a*/ 
+Ele/Ela: [] /*a*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: [] /*a*/
 
 
+`ARTICULOS`
+# el        los         la      las     un      una         
+- o         os          a       as      um      uma
+- [o_u]     [o_us]      [a]     [as]    [um]    [uma]
 
 
-`LETRAS`
-- #  A {la, a el}
-    ...
-    [A]
+`PRONOMBRES-PERSONALES`
+# yo        tu         el/ella          nosotros/as     usted/es            ellos/ellas
+- eu        você       ele/ela          nós             você/vocês          eles/elas
+- [eu]      [voce]     [eli_e/ela]      [nos]           [voce/voces]        [eli_es/elas]
 
-- #  O {el,lo,al}
-    ...
-    [O_u]
 
-- #  ç  {}
-    ...
-    [z] //se pronuncia como una z
+`VERBOS`
+# SER/ESTAR
+# [PRESENTE]     
+Eu: sou [sou] /*soy*/
+você: é [e] /*eres*/
+Ele/ela: é [e] /*es*/
+Nos: são [so_un] /*somos*/
+eles/elas/vocês: são [so_un] /*somos*/
 
+# BEBER
+# [PRESENTE]
+Eu: bebo [bebo] /*bebo*/
+Você: bebe [bebi] /*bebes*/
+Ele/Ela: bebe [bebi] /*bebe*/
+Nos: bebemos [bebemos] /*bebemos*/
+Eles/Elas/vocês: bebem [bebem] /*beben*/
  
-`ARTICULOS` 
 
-- #  UM  {un,uno,una}
+
+
+
+
+- #  com  {con}
     ...
-    [um]
+    [co_u]
 
-- #  UMA  {una}
-     ...
-    [uma]
-
-- #  EU  {yo}
+- #  e  {y}
     ...
-    [eu]
-
-- #  sou  {soy}
-    ...
-    [so_u]
-
-- #  ELE  {el}
-    ...
-    [eli_e]
-
-- #  Ela  {ella}
-    ...
-    [ela]
-
-- #  é  {es,eres,sos,esta}
-    ...
-    [é]
-
-- #  você  {usted,te,ti}
-    ...
-    [voce] //grado intermedio de informalidad para       dirigirse a alguien
-
+    [i]
 
 `PALABRAS`
-- # menina {niña, chica,muchacha}
+- # menina/meninas {niña/s, chica/s,muchacha/s}
     ...
-    [minína]
+    [minína/meninas]
 
-- # menino {niño, chico,muchacho}
+- # menino/s {niño/s, chico/s,muchacho/s}
     ...
-    [minino]
+    [minino/meninos]
 
-- # homen {hombre}
+- # homen/homens {hombre/hombres}
     ...
-    [homen]
+    [omen/omens]
 
-- #  mulher  {mujer}
+- #  mulher/mulheres  {mujer,mujeres}
     ...
-    [mulier_sh]
+    [mulier_sh/mulieres]
 
 - #  maça  {manzana}
     ...
@@ -96,14 +85,57 @@
     ...
     [agua]
 
-- #  bebo  {bebo,tomo}
-    ...
-    [bebo] //del verbo beber/tomar
-    [bebi] //bebe  tercera persona del presente beber
-
 - #  leite  {leche}
     ...
     [leichi]
+
+- #  livro  {libro}
+    ...
+    [libro]
+
+- #   cerveja {cerveza}
+    ...
+    [cervesha]
+
+- #  leem/  {leen}
+    ...
+    [leem]
+    [lemos] leemos primera persona del plural 
+    [le] lee tercera persona del singular
+    [leio] leo primera persona del singular
+- #  escrevo  {escribo}
+    ...
+    [escrevo]
+    [escreve] //escribe , tercera persona del singular
+    [iscribemos]//escribimos, primera persona del plural
+    [iscrevem]// escriben, tercera persona del plural
+- # jornal {diario/periodico}
+    ...
+    [jornao]
+
+- # falamos {hablamos}
+    ...
+    [falamos]
+
+- #  abacaxi  {piña/anana}
+    ...
+    [abacashi]
+
+- #  bom  {bueno/buen}
+    ...
+    [bom]
+
+- #  boa  {buena}
+    ...
+    [boa]
+
+- #  gosta  {le/te gusta/gusto}
+    ...
+    [gosta]
+
+- #  gosto  {me gusta/an}
+    ...
+    [gost]
 
 
 
