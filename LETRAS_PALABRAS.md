@@ -26,22 +26,43 @@ Eles/Elas/vocês: [] /*a*/
 # SER/ESTAR
 # [PRESENTE]     
 Eu: sou [sou] /*soy*/
-você: é [e] /*eres*/
-Ele/ela: é [e] /*es*/
+Ele/ela/voce: é [e] /*es*/
 Nos: são [so_un] /*somos*/
 eles/elas/vocês: são [so_un] /*somos*/
 
 # BEBER
 # [PRESENTE]
 Eu: bebo [bebo] /*bebo*/
-Você: bebe [bebi] /*bebes*/
-Ele/Ela: bebe [bebi] /*bebe*/
+Ele/Ela/voce: bebe [bebi] /*bebe*/
 Nos: bebemos [bebemos] /*bebemos*/
 Eles/Elas/vocês: bebem [bebem] /*beben*/
  
 
+# LEER
+# [PRESENTE]
+Eu: leio [leio] /*leo*/
+Ele/Ela/voce: leem [leem] /*leen*/   
+Nos: lemos [lemos] /*leemos*/
+Eles/Elas/vocês: leem [lem] /*leen*/
 
 
+# ESCRIBIR
+Eu: escrevo [iscrevo] /*escribo*/
+Ele/Ela/voce: escreve [iscreve] /*escribe*/   
+Nos: escrevemos [iscrivemos] /*escribimos*/
+Eles/Elas/vocês: escrevem [iscrevem] /*escriben*/
+
+# HABLAR
+Eu: falo [falo] /*hablo*/
+Ele/Ela/voce: fala [fala] /*habla*/   
+Nos: falamos [falamos] /*hablamos*/
+Eles/Elas/vocês: falan [falan] /*hablan*/
+
+# COMER
+Eu: como [como] /*como*/
+Ele/Ela/voce: come [come] /*come*/   
+Nos: comemos [comemos] /*comemos*/
+Eles/Elas/vocês: comem [comem] /*comen*/
 
 
 - #  com  {con}
@@ -53,6 +74,43 @@ Eles/Elas/vocês: bebem [bebem] /*beben*/
     [i]
 
 `PALABRAS`
+
+- # oi -- hola [oi]
+
+- # em - en [em]
+
+- # olá - hola [ola]
+
+- # sim - si [sim]
+
+- # não - no [no_u]
+
+- # desculpe- disculpe [discuupe]
+
+- # abrigado - gracias [obrigado]
+
+- # obrigada - gracias [obrigada]
+
+- # por favor - por favor [favor_sh]
+
+- # tchau - chau [chau]
+
+- # noite - noche [noichi]
+
+- # tarde - tarde [tarchi]
+
+- # dia - dia [chia]
+
+- # nada - nada [nada]
+
+- # parabéns - felicitaciones [parabens]
+
+- # bem- bien [bem]
+
+- # prazer- placer [placer]
+
+- # conhecer- conocer [conocersh]
+
 - # menina/meninas {niña/s, chica/s,muchacha/s}
     ...
     [minína/meninas]
@@ -73,13 +131,9 @@ Eles/Elas/vocês: bebem [bebem] /*beben*/
     ...
     [maza]
 
-- #  come  {come}
-    ...
-    [come] //del verbo comer
-    [como] //primera persona de comer 
 - #  pão  {pan}
     ...
-    [p_ao]
+    [po_un]
 
 - #  água  {agua}
     ...
@@ -97,25 +151,9 @@ Eles/Elas/vocês: bebem [bebem] /*beben*/
     ...
     [cervesha]
 
-- #  leem/  {leen}
-    ...
-    [leem]
-    [lemos] leemos primera persona del plural 
-    [le] lee tercera persona del singular
-    [leio] leo primera persona del singular
-- #  escrevo  {escribo}
-    ...
-    [escrevo]
-    [escreve] //escribe , tercera persona del singular
-    [iscribemos]//escribimos, primera persona del plural
-    [iscrevem]// escriben, tercera persona del plural
 - # jornal {diario/periodico}
     ...
     [jornao]
-
-- # falamos {hablamos}
-    ...
-    [falamos]
 
 - #  abacaxi  {piña/anana}
     ...
@@ -135,7 +173,7 @@ Eles/Elas/vocês: bebem [bebem] /*beben*/
 
 - #  gosto  {me gusta/an}
     ...
-    [gost]
+    [gosto]
 
 
 
