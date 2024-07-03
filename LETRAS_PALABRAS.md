@@ -64,6 +64,19 @@ Ele/Ela/voce: come [come] /*come*/
 Nos: comemos [comemos] /*comemos*/
 Eles/Elas/vocês: comem [comem] /*comen*/
 
+# COCINAR 
+Eu: cozinho [cozino] /*cocino*/
+Você: [] /*a*/ 
+Ele/Ela: [] /*a*/   
+Nos: comemos [comemos] /*comemos*/
+Eles/Elas/vocês: comem [comen] /*comen*/
+
+# TENER
+Eu: tenho [teno] /*tengo*/
+Você: [] /*a*/ 
+Ele/Ela: tem [tein] /*tiene*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: [] /*a*/
 
 - #  com  {con}
     ...
@@ -74,6 +87,10 @@ Eles/Elas/vocês: comem [comem] /*comen*/
     [i]
 
 `PALABRAS`
+
+- # cadê - donde esta [cade]
+
+- # isso - eso [iso]
 
 - # oi -- hola [oi]
 
@@ -111,7 +128,63 @@ Eles/Elas/vocês: comem [comem] /*comen*/
 
 - # conhecer- conocer [conocersh]
 
+- # amargo- amargo [amargo]
+
+- # banana- banana [banana]
+
+- # ferve - hervir [fervi]
+
+- # queijo - queso [queisho]
+
+- # lata - lata [lata]
+
+- # garrafa - botella [gajafa]
+
+- # a almoço- el almuerzo [amozo]
+
+- # manteiga - manteca [manteiga]
+
+- # bolo - pastel [bolo]
+
+- # cenoura - zanahoria [cenora]
+
+- # chocolate - chocolate [shocolache]
+
+- # biscoito - galleta [biscoito] {va con "um"}
+
+- # cafe - cafe [cafe]
+
+- # frango - pollo [frango]
+
+- # xicara - taza [shicara]
+
+- # ovo - huevo [uofo]
+
+- # peixe - pescado [pelle]
+
+- # bebida- bebida [bebida]
+
+- # garfo - tenedor [garfo]
+
+- # jantar- cena [janta] {va con "o"}
+
+- # regime - regimen [reshime]
+
+- # molho - salsa [molyo]
+
 - # menina/meninas {niña/s, chica/s,muchacha/s}
+
+- # fruta /*same*/
+
+- # uva /*same*/
+
+- # suco - jugo [suco]
+
+- # copo - vaso [copu]
+
+- # fome- hambre [fome]
+
+- # frio /*same*/
     ...
     [minína/meninas]
 
@@ -167,7 +240,7 @@ Eles/Elas/vocês: comem [comem] /*comen*/
     ...
     [boa]
 
-- #  gosta  {le/te gusta/gusto}
+- #  gosta/m  {le/te gusta/n/gusta/n}
     ...
     [gosta]
 
