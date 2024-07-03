@@ -2,6 +2,7 @@
   palabra en portugues
   [pronunciacion]
   /*significado en español*/
+# [tiempo/tematica]
 
 Eu: [] /*a*/
 Você: [] /*a*/ 
@@ -78,15 +79,109 @@ Ele/Ela: tem [tein] /*tiene*/
 Nos: [] /*a*/
 Eles/Elas/vocês: [] /*a*/
 
-- #  com  {con}
-    ...
-    [co_u]
 
-- #  e  {y}
-    ...
-    [i]
 
 `PALABRAS`
+
+# [COCINA/COMIDA/BEBIDA/UTENCILLOS]
+
+
+`COCINA`
+- # fome- hambre [fome]
+
+- # amargo- amargo [amargo]
+
+- # ferve - hervir [fervi]
+
+- # a almoço- el almuerzo [amozo] {va con "a"}
+
+- # fome- hambre [fome]
+
+- # o jantar- cena [janta] {va con "o"}
+
+- # frio /*same*/
+
+`COMIDA`
+- # queijo - queso [queisho]
+
+- # banana- /*same*/
+
+- # manteiga - manteca [manteiga]
+
+- # garrafa - botella [gajafa]
+
+- # chocolate - chocolate [shocolache]
+
+- # biscoito - galleta [biscoito] {va con "um"}
+
+- # cenoura - zanahoria [cenora]
+
+- # bolo - pastel [bolo]
+
+- # peixe - pescado [pelle]
+
+- # ovo - huevo [uo_fo]
+
+- # molho - salsa [molyo]
+
+- # fruta /*same*/
+
+- # uva /*same*/
+
+- #  pão - pan [pa_un]
+
+- #  maça - manzana [maza]
+
+- #  abacaxi - anana [abacashi]
+
+- # batata - papa [batata]
+
+`BEBIDA`
+
+- # lata - */same/*
+
+- # cafe - /*same*/
+
+- # frango - pollo [frango]
+
+- # xicara - taza [shicara]
+
+- # bebida- */same*/
+
+- # suco - jugo [suco]
+
+- # copo - vaso [copu]
+
+- # leite - leche [leichi]
+
+- # água /*same*/
+
+- # cerveja - cerveza [cervesha]
+
+- # vinho - /same*/
+
+
+`UTENCILLOS`
+
+- # garfo - tenedor [garfo]
+
+-------------------------------------------------
+
+
+
+
+
+
+
+
+
+- # insetos - insectos [insetos]
+
+- # mosca - /*same*/
+  
+- # palavra - /*same*/
+
+- # chaves - llaves [shaves]
 
 - # cadê - donde esta [cade]
 
@@ -128,64 +223,16 @@ Eles/Elas/vocês: [] /*a*/
 
 - # conhecer- conocer [conocersh]
 
-- # amargo- amargo [amargo]
 
-- # banana- banana [banana]
 
-- # ferve - hervir [fervi]
 
-- # queijo - queso [queisho]
-
-- # lata - lata [lata]
-
-- # garrafa - botella [gajafa]
-
-- # a almoço- el almuerzo [amozo]
-
-- # manteiga - manteca [manteiga]
-
-- # bolo - pastel [bolo]
-
-- # cenoura - zanahoria [cenora]
-
-- # chocolate - chocolate [shocolache]
-
-- # biscoito - galleta [biscoito] {va con "um"}
-
-- # cafe - cafe [cafe]
-
-- # frango - pollo [frango]
-
-- # xicara - taza [shicara]
-
-- # ovo - huevo [uofo]
-
-- # peixe - pescado [pelle]
-
-- # bebida- bebida [bebida]
-
-- # garfo - tenedor [garfo]
-
-- # jantar- cena [janta] {va con "o"}
 
 - # regime - regimen [reshime]
 
-- # molho - salsa [molyo]
 
 - # menina/meninas {niña/s, chica/s,muchacha/s}
 
-- # fruta /*same*/
-
-- # uva /*same*/
-
-- # suco - jugo [suco]
-
-- # copo - vaso [copu]
-
-- # fome- hambre [fome]
-
-- # frio /*same*/
-    ...
+   ...
     [minína/meninas]
 
 - # menino/s {niño/s, chico/s,muchacho/s}
@@ -200,41 +247,24 @@ Eles/Elas/vocês: [] /*a*/
     ...
     [mulier_sh/mulieres]
 
-- #  maça  {manzana}
-    ...
-    [maza]
 
-- #  pão  {pan}
-    ...
-    [po_un]
-
-- #  água  {agua}
-    ...
-    [agua]
-
-- #  leite  {leche}
-    ...
-    [leichi]
 
 - #  livro  {libro}
     ...
     [libro]
 
-- #   cerveja {cerveza}
-    ...
-    [cervesha]
+
 
 - # jornal {diario/periodico}
     ...
     [jornao]
 
-- #  abacaxi  {piña/anana}
-    ...
-    [abacashi]
 
-- #  bom  {bueno/buen}
+
+- #  bom,bons  {bueno/buen, buenos}
     ...
     [bom]
+    
 
 - #  boa  {buena}
     ...
