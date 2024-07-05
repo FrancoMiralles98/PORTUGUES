@@ -27,7 +27,7 @@ Eles/Elas/vocês: [] /*a*/
 # SER/ESTAR
 # [PRESENTE]     
 Eu: sou [sou] /*soy*/
-Ele/ela/voce: é [e] /*es*/
+Ele/ela/voce: é [e] /*es/esta*/
 Nos: são [so_un] /*somos*/
 eles/elas/vocês: são [so_un] /*somos*/
 
@@ -69,8 +69,8 @@ Eles/Elas/vocês: comem [comem] /*comen*/
 Eu: cozinho [cozino] /*cocino*/
 Você: [] /*a*/ 
 Ele/Ela: [] /*a*/   
-Nos: comemos [comemos] /*comemos*/
-Eles/Elas/vocês: comem [comen] /*comen*/
+Nos:  [] /**/
+Eles/Elas/vocês:  [] /**/
 
 # TENER
 Eu: tenho [teno] /*tengo*/
@@ -99,12 +99,12 @@ Eles/Elas/vocês: [] /*a*/
 
 - # o jantar- cena [janta] {va con "o"}
 
-- # frio /*same*/
+- # frio /*s*/
 
 `COMIDA`
 - # queijo - queso [queisho]
 
-- # banana- /*same*/
+- # banana- /*s*/
 
 - # manteiga - manteca [manteiga]
 
@@ -124,9 +124,9 @@ Eles/Elas/vocês: [] /*a*/
 
 - # molho - salsa [molyo]
 
-- # fruta /*same*/
+- # fruta /*s*/
 
-- # uva /*same*/
+- # uva /*s*/
 
 - #  pão - pan [pa_un]
 
@@ -138,15 +138,15 @@ Eles/Elas/vocês: [] /*a*/
 
 `BEBIDA`
 
-- # lata - */same/*
+- # lata - */s/*
 
-- # cafe - /*same*/
+- # cafe - /*s*/
 
 - # frango - pollo [frango]
 
 - # xicara - taza [shicara]
 
-- # bebida- */same*/
+- # bebida- */s*/
 
 - # suco - jugo [suco]
 
@@ -154,11 +154,11 @@ Eles/Elas/vocês: [] /*a*/
 
 - # leite - leche [leichi]
 
-- # água /*same*/
+- # água /*s*/
 
 - # cerveja - cerveza [cervesha]
 
-- # vinho - /same*/
+- # vinho - /s*/
 
 
 `UTENCILLOS`
@@ -166,20 +166,52 @@ Eles/Elas/vocês: [] /*a*/
 - # garfo - tenedor [garfo]
 
 -------------------------------------------------
+- # rato - raton [jato]
+- # aranha - araña [arania]
+- # fazenda - granja/hacienda [fazenda]
+- # tartaruga - tortuga [tartaruga]
+- # cobra - serpiente [cobra]
+- # lobo /*s*/
+- # tigre /*s*/
+- # tubarao - tiburon [tubaraun]
+- # mosca /*s*/
+- # elefante /*s*/
+- # pato */s/*
+- # vaca /*s*/
+- # gato - /*s*/
+- # cavalo - caballo [cavalo]
+- # passaro - pajaro [pasaro]
+- # animais - animales [animais]
+- # animal - /*s*/
+- # formiga- hormiga [formiga]
+- # abelha - abeja [abelia]
+- # borboleta - mariposa [borboleta]
+- # cachorro - perro [cashorro]
+- # macaco - mono [macaco]
 
 
 
-
-
-
-
-
-
+- # para - a [para] {referise lugar,accion}
+- # agora - ahora [agora]
+- # so - solo [so]
+- # vai - va a [vai]
+- # loja- tienda [losha]
 - # insetos - insectos [insetos]
+- # nova -- nuevo [nova]
+- # hoje - hoy [hoshe]
+- # mas - pero [mas]
+- # mosca - /*s*/
+- # meu - mio [meu]
+- # o seu - su/tu [seu]
+- # em - en [em]
+- # na - en [na]
+- # no - en el [no]
+- # minha - mia [mina]
+- # temos - tenemos [temos]
 
-- # mosca - /*same*/
-  
-- # palavra - /*same*/
+- # ferias- vacaciones [ferias]
+
+- # palavra - /*s*/
 
 - # chaves - llaves [shaves]
 
