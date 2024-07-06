@@ -160,6 +160,7 @@ Eles/Elas/vocês: [] /*a*/
 
 - # vinho - /s*/
 
+- # chá -cafe [sha]
 
 `UTENCILLOS`
 
