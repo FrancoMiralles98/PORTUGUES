@@ -18,10 +18,14 @@ Eles/Elas/vocês: [] /*a*/
 
 
 `PRONOMBRES-PERSONALES`
-# yo        tu         el/ella          nosotros/as     usted/es            ellos/ellas
-- eu        você       ele/ela          nós             você/vocês          eles/elas
-- [eu]      [voce]     [eli_e/ela]      [nos]           [voce/voces]        [eli_es/elas]
+# yo        tu       el/ella          nosotros/as     usted/es            ellos/ellas
+- eu        tu       ele/ela          nós             você/vocês          eles/elas
+- [eu]      [tu]     [eli_e/ela]      [nos]           [voce/voces]        [eli_es/elas]
 
+
+`PRONOMBRES FORMALES`
+- # és - eres [es]
+. #
 
 
 
@@ -44,14 +48,14 @@ Eles/Elas/vocês: bebem [bebem] /*beben*/
 # LEER
 # [PRESENTE]
 Eu: leio [leio] /*leo*/
-Ele/Ela/voce: leem [leem] /*leen*/   
+Ele/Ela/voce: le [le_i] /*lee*/   
 Nos: lemos [lemos] /*leemos*/
 Eles/Elas/vocês: leem [lem] /*leen*/
 
 
 # ESCRIBIR
 Eu: escrevo [iscrevo] /*escribo*/
-Ele/Ela/voce: escreve [iscreve] /*escribe*/   
+Ele/Ela/voce: escreve [iscreve] /*escribe/   
 Nos: escrevemos [iscrivemos] /*escribimos*/
 Eles/Elas/vocês: escrevem [iscrevem] /*escriben*/
 
@@ -75,9 +79,9 @@ Eles/Elas/vocês:  [] /**/
 
 # TENER
 Eu: tenho [teno] /*tengo*/
-Ele/Ela/voce: tem [tein] /*tiene*/   
+Ele/Ela/voce: ten [tein] /*tiene*/   
 Nos: temos [temos] /*tenemos*/
-Eles/Elas/vocês: [] /*a*/
+Eles/Elas/vocês: têm [tem] /*tienen*/
 
 
 
@@ -181,7 +185,7 @@ Eles/Elas/vocês: [] /*a*/
 - # cobra - serpiente [cobra]
 - # lobo /*s*/
 - # tigre /*s*/
-- # tubarao - tiburon [tubaraun]
+- # tubarão - tiburon [tubaraun]
 - # mosca /*s*/
 - # elefante /*s*/
 - # pato */s/*
@@ -212,7 +216,7 @@ Eles/Elas/vocês: [] /*a*/
 - # loja- tienda [losha]
 - # insetos - insectos [insetos]
 - # nova -- nuevo [nova]
-- # hoje - hoy [hoshe]
+- # hoje - hoy [hoshi]
 - # mas - pero [mas]
 - # mosca - /*s*/
 - # meu - mio [meu]
@@ -236,6 +240,8 @@ Eles/Elas/vocês: [] /*a*/
 - # oi -- hola [oi]
 
 - # em - en [em]
+
+- # mias - mas [mais]
 
 - # olá - hola [ola]
 
