@@ -5,6 +5,7 @@
 # [tiempo/tematica]
 
 Eu: [] /*a*/
+tu:  []/*a*/
 Você: [] /*a*/ 
 Ele/Ela: [] /*a*/   
 Nos: [] /*a*/
@@ -33,6 +34,7 @@ Eles/Elas/vocês: [] /*a*/
 # SER/ESTAR
 # [PRESENTE]     
 Eu: sou [sou] /*soy*/
+tu: és [es] /*eres*/
 Ele/ela/voce: é [e] /*es/esta*/
 Nos: são [so_un] /*somos*/
 eles/elas/vocês: são [so_un] /*somos*/
@@ -40,6 +42,7 @@ eles/elas/vocês: são [so_un] /*somos*/
 # BEBER
 # [PRESENTE]
 Eu: bebo [bebo] /*bebo*/
+tu:  []/*a*/
 Ele/Ela/voce: bebe [bebi] /*bebe*/
 Nos: bebemos [bebemos] /*bebemos*/
 Eles/Elas/vocês: bebem [bebem] /*beben*/
@@ -48,6 +51,7 @@ Eles/Elas/vocês: bebem [bebem] /*beben*/
 # LEER
 # [PRESENTE]
 Eu: leio [leio] /*leo*/
+tu: lês [leis] /*lees*/
 Ele/Ela/voce: le [le_i] /*lee*/   
 Nos: lemos [lemos] /*leemos*/
 Eles/Elas/vocês: leem [lem] /*leen*/
@@ -55,34 +59,46 @@ Eles/Elas/vocês: leem [lem] /*leen*/
 
 # ESCRIBIR
 Eu: escrevo [iscrevo] /*escribo*/
+tu:  escreves [iscreves]/*escribes*/
 Ele/Ela/voce: escreve [iscreve] /*escribe/   
 Nos: escrevemos [iscrivemos] /*escribimos*/
 Eles/Elas/vocês: escrevem [iscrevem] /*escriben*/
 
 # HABLAR
 Eu: falo [falo] /*hablo*/
+tu: falas [falas]/*hablas*/
 Ele/Ela/voce: fala [fala] /*habla*/   
 Nos: falamos [falamos] /*hablamos*/
 Eles/Elas/vocês: falan [falan] /*hablan*/
 
 # COMER
 Eu: como [como] /*como*/
+tu: comes [comes]/*comes*/
 Ele/Ela/voce: come [come] /*come*/   
 Nos: comemos [comemos] /*comemos*/
 Eles/Elas/vocês: comem [comem] /*comen*/
 
 # COCINAR 
-Eu: cozinho [cozino] /*cocino*/
+Eu: cozinho [cozinho] /*cocino*/
+tu:  []/*a*/
 Ele/Ela/voce: [] /*a*/   
 Nos:  [] /**/
 Eles/Elas/vocês:  [] /**/
 
 # TENER
 Eu: tenho [teno] /*tengo*/
+tu: tens [tens] /*tienes*/
 Ele/Ela/voce: ten [tein] /*tiene*/   
 Nos: temos [temos] /*tenemos*/
 Eles/Elas/vocês: têm [tem] /*tienen*/
 
+# VESTIR
+Eu: [] /*a*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: veste [veschi] /*viste*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: [] /*a*/
 
 
 `PALABRAS`
@@ -178,6 +194,7 @@ Eles/Elas/vocês: têm [tem] /*tienen*/
 -------------------------------------------------
 
 # [ANIMALES]
+
 - # rato - raton [jato]
 - # aranha - araña [arania]
 - # fazenda - granja/hacienda [fazenda]
@@ -205,9 +222,54 @@ Eles/Elas/vocês: têm [tem] /*tienen*/
 
 -------------------------------------------------
 
+# [ROPA]
+
+- # camisa /*s*/
+- # sapato /*s*/
+- # vestido /*s*/
+- # saia - falda/pollera [saia]
+- # roupa - ropa [roupa]
+- # chápeu - sombrero [shapeu]
+- # bolsa - cartera [bolsa]
+- # bolso - bolsillo [bolso]
+- # cinto - cinturon [cinto]
+- # botas /*s*/
+- # blusa /*s*/
+- # capa /*s*/
+- # luva - guante [luva] {va con "uma y con a"}
+- # fantasia - disfraz [fantasia] [va con "uma"]
+- # casaco/agasalho - abrigo [casaco/agasaio]
+- # jeans /*s*/
+- # traje /*s*/ [trashe]
+- # calças - pantalon [calzas]
+- # sandalia /*s*/
+- # relogio - reloj [gelogio]
+- # meia - media [meia]
+- # carteira - billetera [carteira]
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- # ou - o [ou]
+- # sem - sin [sem]
+- # estão - estan [estau]
+- # este - /*s*/
 - # preciso - necesito [preciso]
 - # para - a [para] {referise lugar,accion}
 - # agora - ahora [agora]
@@ -259,7 +321,7 @@ Eles/Elas/vocês: têm [tem] /*tienen*/
 
 - # tchau - chau [chau]
 
-- # noite - noche [noichi]
+- # noite - noche [noiche]
 
 - # tarde - tarde [tarchi]
 
