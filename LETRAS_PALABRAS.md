@@ -107,12 +107,12 @@ Eles/Elas/vocês: [] /*a*/
 
 - # meu/s - mio/s/mi/s [meu/s]
 - # minha/s - mia/s/mi/s [miña/s] 
-- # teu/s - tu/s/tuyo/s [teu/s]
-- # tua/s - tu/s/tuya/s [tua/s]
 - # nossa/s - nuenustra/s [nosa/s]
 - # nosso/s - nuenustro/s [noso/s]
 - # seu/s - su/s/suyo/s [seu/s]
 - # sua/s - su/s/suya/s [sua/s]
+- # teu/s - tu/s/tuyo/s [teu/s]
+- # tua/s - tu/s/tuya/s [tua/s]
 
 ---------------------------------------------
 
@@ -120,145 +120,145 @@ Eles/Elas/vocês: [] /*a*/
 
 -  `COCINA`
 
-- # fome- hambre [fome]
-- # amargo- amargo [amargo]
-- # ferve - hervir [fervi]
-- # lanche - merienda [lanshe] {va ccon "o"}
 - # a almoço- el almuerzo [amozo] {va con "a"}
-- # fome- hambre [fome]
-- # cozinha - cocina [cocina]
-- # o jantar- cena [janta] {va con "o"}
-- # frio /*s*/
-- # menu /*s*/ 
+- # amargo- amargo [amargo]
 - # azedo - acido [acedo]
+- # cozinha - cocina [cocina]
+- # fome- hambre [fome]
+- # ferve - hervir [fervi]
+- # frio /*s*/
+- # fome- hambre [fome]
+- # jantar- cena [janta] {va con "o"}
+- # lanche - merienda [lanshe] {va ccon "o"}
+- # menu /*s*/ 
 - # receta /*s*/
 
 -   `COMIDA`
 
-- # queijo - queso [queisho]
-- # sanduiche - sandwiche [sanduishi]
 - # arroz /*s*/
-- # vegetal - vegetal [veshetal]
-- # banana- /*s*/
-- # manteiga - manteca [manteiga]
-- # garrafa - botella [gajafa]
-- # chocolate - chocolate [shocolache]
-- # biscoito - galleta [biscoito] {va con "um"}
-- # cenoura - zanahoria [cenora]
-- # bolo - pastel [bolo]
-- # peixe - pescado [pelle]
-- # ovo - huevo [uo_fo]
-- # molho - salsa [molyo]
-- # fruta /*s*/
-- # uva /*s*/
-- # pão - pan [pa_un]
-- # maçã - manzana [maza]
 - # abacaxi - anana [abacashi]
-- # batata - papa [batata]
-- # vegetal - /*s*/ [veshetal]
-- # tomate - tomate [tomache]
-- # alimento /*s*/
 - # azeite - aceite [aceiche]
 - # açucar - azucar [azucar]
-- # salada - ensalada [salada]
-- # sal /*s*/
-- # laranja - naranja [laransha]
-- # massa - pasta [masa]
-- # limão - limon [limao_u]
+- # alimento /*s*/
+- # banana- /*s*/
+- # biscoito - galleta [biscoito] {va con "um"}
+- # batata - papa [batata]
+- # bolo - pastel [bolo]
+- # chocolate - chocolate [shocolache]
 - # carne /*s*/
+- # cenoura - zanahoria [cenora]
+- # fruta /*s*/
+- # garrafa - botella [gajafa]
+- # laranja - naranja [laransha]
+- # limão - limon [limao_u]
+- # manteiga - manteca [manteiga]
+- # maçã - manzana [maza]
+- # molho - salsa [molyo]
+- # massa - pasta [masa]
+- # ovo - huevo [uo_fo]
+- # pão - pan [pa_un]
+- # peixe - pescado [pelle]
+- # queijo - queso [queisho]
+- # sanduiche - sandwiche [sanduishi]
+- # sal /*s*/
+- # salada - ensalada [salada]
+- # tomate - tomate [tomache]
+- # uva /*s*/
+- # vegetal - vegetal [veshetal]
+- # vegetal - /*s*/ [veshetal]
 
 -   `BEBIDA`
 
-- # sopa /*s*/
-- # lata - */s/*
-- # cafe - /*s*/
-- # frango - pollo [frango]
-- # xicara - taza [shicara]
-- # bebida- */s*/
-- # suco - jugo [suco]
-- # copo - vaso [copu]
-- # leite - leche [leichi]
 - # água /*s*/
+- # bebida- */s*/
+- # cafe - /*s*/
 - # cerveja - cerveza [cervesha]
-- # vinho - /s*/
 - # chá - te [sha]
+- # copo - vaso [copu]
+- # frango - pollo [frango]
+- # leite - leche [leichi]
 - # limonada /*s*/
+- # lata - */s/*
+- # suco - jugo [suco]
+- # sopa /*s*/
+- # vinho - /s*/
+- # xicara - taza [shicara]
 
 -   `UTENCILLOS`
 
-- # garfo - tenedor [garfo]
-- # prato - plato [prato]
 - # colher - cuchara [coliesh]
 - # faca - cuchillo [faca]
+- # garfo - tenedor [garfo]
+- # prato - plato [prato]
 
 -------------------------------------------------
 
 # [ANIMALES]
 
-- # rato - raton [jato]
 - # aranha - araña [arania]
-- # fazenda - granja/hacienda [fazenda]
-- # tartaruga - tortuga [tartaruga]
+- # animais - animales [animais]
+- # abelha - abeja [abelia]
+- # animal - /*s*/
+- # borboleta - mariposa [borboleta]
 - # cobra - serpiente [cobra]
+- # cavalo - caballo [cavalo]
+- # cachorro - perro [cashorro]
+- # elefante /*s*/
+- # formiga- hormiga [formiga]
+- # fazenda - granja/hacienda [fazenda]
+- # gato - /*s*/
 - # lobo /*s*/
+- # leão - leon [leao]
+- # mosca /*s*/
+- # macaco - mono [macaco]
+- # pato */s/*
+- # porco - cerdo [porco]
+- # passaro - pajaro [pasaro]
+- # rato - raton [jato]
+- # tartaruga - tortuga [tartaruga]
 - # tigre /*s*/
 - # tubarão - tiburon [tubaraun]
-- # mosca /*s*/
-- # elefante /*s*/
-- # pato */s/*
 - # vaca /*s*/
-- # porco - cerdo [porco]
-- # leão - leon [leao]
-- # gato - /*s*/
-- # cavalo - caballo [cavalo]
-- # passaro - pajaro [pasaro]
-- # animais - animales [animais]
-- # animal - /*s*/
-- # formiga- hormiga [formiga]
-- # abelha - abeja [abelia]
-- # borboleta - mariposa [borboleta]
-- # cachorro - perro [cashorro]
-- # macaco - mono [macaco]
 
 -------------------------------------------------
 
 # [ROPA]
 
-- # camisa /*s*/
-- # sapato /*s*/
-- # vestido /*s*/
-- # saia - falda/pollera [saia]
-- # roupa - ropa [roupa]
-- # chápeu - sombrero [shapeu]
-- # bolsa/carteira  - cartera [bolsa/carteira]
 - # bolso - bolsillo [bolso]
-- # cinto - cinturon [cinto]
 - # botas /*s*/
+- # bolsa/carteira  - cartera [bolsa/carteira]
 - # blusa /*s*/
+- # camisa /*s*/
+- # chápeu - sombrero [shapeu]
+- # cinto - cinturon [cinto]
 - # capa /*s*/
-- # luva - guante [luva] {va con "uma y con a"}
-- # fantasia - disfraz [fantasia] [va con "uma"]
 - # casaco/agasalho - abrigo [casaco/agasaio]
-- # jeans /*s*/
-- # traje /*s*/ [trashe]
 - # calças - pantalon [calzas] {es femenino}
-- # sandalia /*s*/
-- # relogio - reloj [gelogio]
-- # meia - media [meia]
 - # carteira - billetera [carteira]
+- # fantasia - disfraz [fantasia] [va con "uma"]
+- # jeans /*s*/
+- # luva - guante [luva] {va con "uma y con a"}
+- # meia - media [meia]
+- # relogio - reloj [gelogio]
+- # roupa - ropa [roupa]
+- # sapato /*s*/
+- # saia - falda/pollera [saia]
+- # sandalia /*s*/
+- # traje /*s*/ [trashe]
+- # vestido /*s*/
 
 -----------------------------------------------------
 
 # [PREGUNTAS]
 - # como? /*s*/
 - # onde? - donde? [onghi]
+- # o quê? - que? [oque] {en ves de ir al principio de la oracion va alfinal }
+- # pergunta - pregunta [pergunta]
 - # Quantos? - cuantos [cuantos]
 - # Quem? - quien/quienes [quiem]
-- # o quê? - que? [oque] {en ves de ir al principio de la oracion va alfinal }
 - # qual? - cual [cual]
-- # resposta - respuesta [resposta]
-- # pergunta - pregunta [pergunta]
 - # quais - cuales [cuais]
+- # resposta - respuesta [resposta]
 
 
 
