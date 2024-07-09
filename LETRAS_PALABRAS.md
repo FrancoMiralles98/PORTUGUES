@@ -88,7 +88,7 @@ Eles/Elas/vocês:  [] /**/
 # TENER
 Eu: tenho [teno] /*tengo*/
 tu: tens [tens] /*tienes*/
-Ele/Ela/voce: ten [tein] /*tiene*/   
+Ele/Ela/voce: tem [tein] /*tiene*/   
 Nos: temos [temos] /*tenemos*/
 Eles/Elas/vocês: têm [tem] /*tienen*/
 
@@ -230,7 +230,7 @@ Eles/Elas/vocês: [] /*a*/
 - # saia - falda/pollera [saia]
 - # roupa - ropa [roupa]
 - # chápeu - sombrero [shapeu]
-- # bolsa - cartera [bolsa]
+- # bolsa/carteira  - cartera [bolsa/carteira]
 - # bolso - bolsillo [bolso]
 - # cinto - cinturon [cinto]
 - # botas /*s*/
@@ -241,12 +241,24 @@ Eles/Elas/vocês: [] /*a*/
 - # casaco/agasalho - abrigo [casaco/agasaio]
 - # jeans /*s*/
 - # traje /*s*/ [trashe]
-- # calças - pantalon [calzas]
+- # calças - pantalon [calzas] {es femenino}
 - # sandalia /*s*/
 - # relogio - reloj [gelogio]
 - # meia - media [meia]
 - # carteira - billetera [carteira]
 
+-----------------------------------------------------
+
+# [PREGUNTAS]
+- # como? /*s*/
+- # onde? - donde? [onghi]
+- # Quantos? - cuantos [cuantos]
+- # Quem? - quien/quienes [quiem]
+- # o quê? - que? [oque] {en ves de ir al principio de la oracion va alfinal }
+- # qual? - cual [cual]
+- # resposta - respuesta [resposta]
+- # pergunta - pregunta [pergunta]
+- # quais - cuales [cuais]
 
 
 
@@ -257,15 +269,7 @@ Eles/Elas/vocês: [] /*a*/
 
 
 
-
-
-
-
-
-
-
-
-
+- # como /*s*/
 - # ou - o [ou]
 - # sem - sin [sem]
 - # estão - estan [estau]
