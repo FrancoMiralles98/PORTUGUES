@@ -31,13 +31,6 @@ Eles/Elas/vocês: [] /*a*/
 
 
 `VERBOS`
-# SER/ESTAR
-# [PRESENTE]     
-Eu: sou [sou] /*soy*/
-tu: és [es] /*eres*/
-Ele/ela/voce: é [e] /*es/esta*/
-Nos: são [so_un] /*somos*/
-eles/elas/vocês: são [so_un] /*somos*/
 
 # BEBER
 # [PRESENTE]
@@ -46,30 +39,6 @@ tu:  []/*a*/
 Ele/Ela/voce: bebe [bebi] /*bebe*/
 Nos: bebemos [bebemos] /*bebemos*/
 Eles/Elas/vocês: bebem [bebem] /*beben*/
- 
-
-# LEER
-# [PRESENTE]
-Eu: leio [leio] /*leo*/
-tu: lês [leis] /*lees*/
-Ele/Ela/voce: le [le_i] /*lee*/   
-Nos: lemos [lemos] /*leemos*/
-Eles/Elas/vocês: leem [lem] /*leen*/
-
-
-# ESCRIBIR
-Eu: escrevo [iscrevo] /*escribo*/
-tu:  escreves [iscreves]/*escribes*/
-Ele/Ela/voce: escreve [iscreve] /*escribe/   
-Nos: escrevemos [iscrivemos] /*escribimos*/
-Eles/Elas/vocês: escrevem [iscrevem] /*escriben*/
-
-# HABLAR
-Eu: falo [falo] /*hablo*/
-tu: falas [falas]/*hablas*/
-Ele/Ela/voce: fala [fala] /*habla*/   
-Nos: falamos [falamos] /*hablamos*/
-Eles/Elas/vocês: falan [falan] /*hablan*/
 
 # COMER
 Eu: como [como] /*como*/
@@ -85,12 +54,115 @@ Ele/Ela/voce: [] /*a*/
 Nos:  [] /**/
 Eles/Elas/vocês:  [] /**/
 
+# CONVERSAR
+Eu: [] /*a*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: [] /*a*/   
+Nos: conversamos [conversamos] /*conversamos*/
+Eles/Elas/vocês: conversam [conversam] /*conversan*/
+
+# ESCRIBIR
+Eu: escrevo [iscrevo] /*escribo*/
+tu:  escreves [iscreves]/*escribes*/
+Ele/Ela/voce: escreve [iscreve] /*escribe/   
+Nos: escrevemos [iscrivemos] /*escribimos*/
+Eles/Elas/vocês: escrevem [iscrevem] /*escriben*/
+
+# ERRAR (equivocar)
+Eu: [] /*a*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: erra [erra] /*erra*/   
+Nos: erramos [erramos] /*erramos*/
+Eles/Elas/vocês: [] /*a*/
+
+# HABLAR
+Eu: falo [falo] /*hablo*/
+tu: falas [falas]/*hablas*/
+Ele/Ela/voce: fala [fala] /*habla*/   
+Nos: falamos [falamos] /*hablamos*/
+Eles/Elas/vocês: falan [falan] /*hablan*/
+
+# HALLAR
+Eu: [] /*a*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: [] /*a*/   
+Nos: achamos [ashamos] /*hallamos*/
+Eles/Elas/vocês: acham [asham] /*hallan*/
+
+# HACER
+Eu: faço [fazo] /*hago*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: [] /*a*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: fazem [fazem] /*hacen*/
+
+# IR
+Eu: [] /*a*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: vai [vai] /*va*/   
+Nos: vamos [vamos] /*vamos*/
+Eles/Elas/vocês: vão [vo_un] /*van*/
+
+# LEER
+# [PRESENTE]
+Eu: leio [leio] /*leo*/
+tu: lês [leis] /*lees*/
+Ele/Ela/voce: le [le_i] /*lee*/   
+Nos: lemos [lemos] /*leemos*/
+Eles/Elas/vocês: leem [lem] /*leen*/
+
+# OIR
+Eu: [] /*a*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: ouve [ouvi] /*oye*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: ouvem [ovem] /*oyen*/
+
+# RECORDAR
+Eu: [] /*a*/
+tu:  []/*a*/
+Você: lembra [lembra] /*recuerda*/ 
+Ele/Ela: [] /*a*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: [] /*a*/
+
+# SER/ESTAR
+# [PRESENTE]     
+Eu: sou [sou] /*soy*/
+tu: és [es] /*eres*/
+Ele/ela/voce: é [e] /*es/esta*/
+Nos: são [so_un] /*somos*/
+eles/elas/vocês: são [so_un] /*somos*/
+
+# SABER
+Eu: [] /*a*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: sabe [sabe] /*sabe*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: [] /*a*/
+
 # TENER
 Eu: tenho [teno] /*tengo*/
 tu: tens [tens] /*tienes*/
 Ele/Ela/voce: tem [tein] /*tiene*/   
 Nos: temos [temos] /*tenemos*/
 Eles/Elas/vocês: têm [tem] /*tienen*/
+
+# TOCAR 
+Eu: toco [toco] /*toco*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: [] /*a*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: [] /*a*/
+
 
 # VESTIR
 Eu: [] /*a*/
@@ -99,6 +171,21 @@ Você: [] /*a*/
 Ele/Ela: veste [veschi] /*viste*/   
 Nos: [] /*a*/
 Eles/Elas/vocês: [] /*a*/
+
+
+# VER
+Eu: vejo [vesho] /*veo*/
+tu:  []/*a*/
+Você: [] /*a*/ 
+Ele/Ela: [] /*a*/   
+Nos: [] /*a*/
+Eles/Elas/vocês: [] /*a*/
+
+
+
+
+
+
 
 
 `PALABRAS`
@@ -260,15 +347,29 @@ Eles/Elas/vocês: [] /*a*/
 - # quais - cuales [cuais]
 - # resposta - respuesta [resposta]
 
+-----------------------------------------------------
+
+# [COLORES]
+- # azul/azuis /*s*/ [azu/azuis]
+- # amarelo - amarillo [amarelo]
+- # branco/s - blanco [branco/s]
+- # cor - color [cor] {va con "a"}
+- # colorido /*s*/
+- # colorimos - pintamos [colorimos]
+- # morena /*s*/
+- # negro/a /preto /*s*/
+- # rosa /*s*/
+- # roxa - morado/purpura [josha]
+- # verde /*s*/ [verdi]
+- # vermelho/s - rojo [vermelo/s]
 
 
 
 
 
 
-
-
-
+- # acontence - pasa/sucede [acontece]
+- # do - del [do]
 - # como /*s*/
 - # ou - o [ou]
 - # sem - sin [sem]
