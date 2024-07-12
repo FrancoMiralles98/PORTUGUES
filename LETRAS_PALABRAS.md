@@ -629,8 +629,14 @@ Eles/Elas/vocês: []
 
 
 
-
-
+- # porque /*s*/
+- # mas - pero [mas]
+- # se - si [si] {condicional}
+- # nem - ni [nei]
+- # que /*s*/
+- # como /*s*/
+- # ou - o [o_u]
+- # dai - luego/de ahi/entonces [dai]
 - # acontence - pasa/sucede [acontece]
 - # do - del [do]
 - # como /*s*/
