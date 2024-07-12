@@ -4,13 +4,13 @@
   /*significado en español*/
 # [tiempo/tematica]
 
-Eu: [] /*a*/
-tu:  []/*a*/
-Você: [] /*a*/ 
-Ele/Ela: [] /*a*/   
-Nos: [] /*a*/
-Eles/Elas/vocês: [] /*a*/
-
+# españo [portugues]
+Eu: [] 
+tu:  []
+Você: [] 
+Ele/Ela: []  
+Nos: [] 
+Eles/Elas/vocês: [] 
 
 `ARTICULOS`
 # el        los         la      las     un      una         
@@ -32,105 +32,313 @@ Eles/Elas/vocês: [] /*a*/
 
 `VERBOS`
 
-# BEBER
+# ABIRIR [ABRIR]
+Eu: abro [abro] 
+tu:  abres []
+Você:abre [] 
+Ele/Ela: abre []   
+Nos: abrimos[] 
+Eles/Elas/vocês: abrem[] 
+
+# AMAR [AMAR]
+Eu: amo[] 
+tu: amas []
+Você: ama[]  
+Ele/Ela: ama []    
+Nos: amamos[] 
+Eles/Elas/vocês: amam[] 
+
+# AYUDAR [AJUDAR]
+Eu: ajudo[] 
+tu:  ajudas[]
+Você: ajuda []  
+Ele/Ela: ajuda []    
+Nos: ajudamos[] 
+Eles/Elas/vocês: ajudam[] 
+
+# ACEPTAR [ACEITAR]
+Eu: aceito[] 
+tu:  aceitas[]
+Você: aceita[]  
+Ele/Ela: aceita[]    
+Nos: aceitamos[] 
+Eles/Elas/vocês: aceitam [aceitam] 
+
+# BEBER [BEBER]
 # [PRESENTE]
-Eu: bebo [bebo] /*bebo*/
-tu:  []/*a*/
-Ele/Ela/voce: bebe [bebi] /*bebe*/
-Nos: bebemos [bebemos] /*bebemos*/
-Eles/Elas/vocês: bebem [bebem] /*beben*/
+Eu: bebo [bebo] 
+tu:  bebes [bebes]
+Ele/Ela/voce: bebe [bebi] 
+Nos: bebemos [bebemos] 
+Eles/Elas/vocês: bebem [bebem] 
 
-# COMER
-Eu: como [como] /*como*/
-tu: comes [comes]/*comes*/
-Ele/Ela/voce: come [come] /*come*/   
-Nos: comemos [comemos] /*comemos*/
-Eles/Elas/vocês: comem [comem] /*comen*/
+# COMER [COMER]
+Eu: como [como] 
+tu: comes [comes]
+Ele/Ela/voce: come [come]  
+Nos: comemos [comemos] 
+Eles/Elas/vocês: comem [comem] 
 
-# COCINAR 
-Eu: cozinho [cozinho] /*cocino*/
-tu:  []/*a*/
-Ele/Ela/voce: [] /*a*/   
-Nos:  [] /**/
-Eles/Elas/vocês:  [] /**/
+# COCINAR [COZINHAR]
+Eu: cozinho [cozinho]
+tu:  cozinhas[]
+Ele/Ela/voce: cozinha[]    
+Nos:  cozinhamos[] 
+Eles/Elas/vocês: cozinham [] 
 
-# CONVERSAR
-Eu: [] /*a*/
-tu:  []/*a*/
-Você: [] /*a*/ 
-Ele/Ela: [] /*a*/   
+# CAMINAR [CAMINHAR]
+Eu: caminho[] 
+tu:  caminhas[]
+Você: caminha[]  
+Ele/Ela: caminha[]    
+Nos: caminhamos [caminhamos] 
+Eles/Elas/vocês: caminham[] 
+
+# CORRER [CORRER]
+Eu: corro[] 
+tu:  corres[]
+Você: corre[]  
+Ele/Ela: corre[]    
+Nos:corremos [] 
+Eles/Elas/vocês: correm[] 
+
+# COMPRAR [COMPRAR]
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# CONVERSAR [CONVERSAR]
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
 Nos: conversamos [conversamos] /*conversamos*/
 Eles/Elas/vocês: conversam [conversam] /*conversan*/
 
+# CONOCER [CONHECER]
+Eu: conheço [conieso] /*conozco*/
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# DAR [DAR] {dificil}
+Eu: dou[] 
+tu:  das[]
+Você: dá[]  
+Ele/Ela: dá [da]   
+Nos: damos[] 
+Eles/Elas/vocês: dão[] 
+
+# DECIR [DIZER]
+Eu: digo[] 
+tu:  dizes[]
+Você: dize[]  
+Ele/Ela: dize[]    
+Nos: dezimos[] 
+Eles/Elas/vocês: dizem[] 
+
+# DEJAR [DEIXAR]
+Eu: deixo[] 
+tu:  deixas[]
+Você: deixa[]  
+Ele/Ela:  deixa[]  
+Nos: deixamos[] 
+Eles/Elas/vocês: deixam [] /
+
+# DORMIR [DORMIR] {moderado}
+Eu: durmo[] 
+tu: dormes []
+Você: dorme[]  
+Ele/Ela: dorme[]    
+Nos: dormemos[] 
+Eles/Elas/vocês:dormem [] 
+
+# DECIDIR [DECIDIR]
+Eu: decido[] 
+tu:  decides[]
+Você: decide[]  
+Ele/Ela: decide[]    
+Nos: decidimos[] 
+Eles/Elas/vocês:decidem [] 
+
+# DISCULPAR [DESCULPAR]
+Eu: desculpo[] 
+tu:  desculpas[]
+Você: desculpa []  
+Ele/Ela: desculpa[]    
+Nos: desculpamos[] 
+Eles/Elas/vocês:desculpam [] 
+
 # ESCRIBIR
-Eu: escrevo [iscrevo] /*escribo*/
-tu:  escreves [iscreves]/*escribes*/
-Ele/Ela/voce: escreve [iscreve] /*escribe/   
-Nos: escrevemos [iscrivemos] /*escribimos*/
-Eles/Elas/vocês: escrevem [iscrevem] /*escriben*/
+Eu: escrevo [iscrevo] 
+tu:  escreves [iscreves]
+Ele/Ela/voce: escreve [iscreve]   
+Nos: escrevemos [iscrivemos] 
+Eles/Elas/vocês: escrevem [iscrevem] 
 
-# ERRAR (equivocar)
-Eu: [] /*a*/
-tu:  []/*a*/
-Você: [] /*a*/ 
-Ele/Ela: erra [erra] /*erra*/   
-Nos: erramos [erramos] /*erramos*/
-Eles/Elas/vocês: [] /*a*/
+# ERRAR [ERRAR] (equivocar)
+Eu: erro[] 
+tu:  erras[]
+Você: erra []  
+Ele/Ela: erra [erra] 
+Nos: erramos [erramos] 
+Eles/Elas/vocês: erram [] 
 
-# HABLAR
-Eu: falo [falo] /*hablo*/
-tu: falas [falas]/*hablas*/
-Ele/Ela/voce: fala [fala] /*habla*/   
-Nos: falamos [falamos] /*hablamos*/
-Eles/Elas/vocês: falan [falan] /*hablan*/
+# ENTENDER [ENTENDER]
+Eu: entendo [intendo]
+tu: entendes []
+Você: entende[]  
+Ele/Ela: entende[]    
+Nos: entendemos[] 
+Eles/Elas/vocês: entendem[] 
 
-# HALLAR
-Eu: [] /*a*/
-tu:  []/*a*/
-Você: [] /*a*/ 
-Ele/Ela: [] /*a*/   
-Nos: achamos [ashamos] /*hallamos*/
-Eles/Elas/vocês: acham [asham] /*hallan*/
+# ESPERAR [ESPERAR]
+Eu: espero[] 
+tu:  esperas[]
+Você: espera[]  
+Ele/Ela: espera[]    
+Nos: esperamos[] 
+Eles/Elas/vocês: esperam[] 
 
-# HACER
-Eu: faço [fazo] /*hago*/
-tu:  []/*a*/
-Você: [] /*a*/ 
-Ele/Ela: [] /*a*/   
-Nos: [] /*a*/
-Eles/Elas/vocês: fazem [fazem] /*hacen*/
+# ENCONTRAR [ENCONTRAR]
+Eu: encontro[] 
+tu:  encontras[]
+Você: encontra[]  
+Ele/Ela: encontra[]    
+Nos: encontramos[] 
+Eles/Elas/vocês: encontram[] 
 
-# IR
-Eu: [] /*a*/
-tu:  []/*a*/
-Você: [] /*a*/ 
-Ele/Ela: vai [vai] /*va*/   
-Nos: vamos [vamos] /*vamos*/
-Eles/Elas/vocês: vão [vo_un] /*van*/
+# GANAR [GANHAR]
+Eu: ganho[] 
+tu:  ganhas[]
+Você: ganha[]  
+Ele/Ela: ganha[]    
+Nos: ganhamos[] 
+Eles/Elas/vocês: ganham[] 
 
-# LEER
-# [PRESENTE]
-Eu: leio [leio] /*leo*/
-tu: lês [leis] /*lees*/
-Ele/Ela/voce: le [le_i] /*lee*/   
-Nos: lemos [lemos] /*leemos*/
-Eles/Elas/vocês: leem [lem] /*leen*/
+# GUSTAR [GOSTAR]
+Eu: gosto[] 
+tu:  gostas[]
+Você: gosta[]  
+Ele/Ela: gosta[]    
+Nos: gostamos[] 
+Eles/Elas/vocês: gostam[] 
+
+# HABLAR [FALAR]
+Eu: falo [falo] 
+tu: falas [falas]
+Ele/Ela/voce: fala [fala]   
+Nos: falamos [falamos] 
+Eles/Elas/vocês: falan [falan] 
+
+# HACER [FAZER]
+Eu: faço [fazo] 
+tu:  fazes[]
+Você: faz[]  
+Ele/Ela: faz[]    
+Nos: fazemos[] 
+Eles/Elas/vocês: fazem [fazem] 
+
+# IR [IR] {dificil}
+Eu: vou[] 
+tu:  vais[]
+Você: vai[]  
+Ele/Ela: vai [vai]   
+Nos: vamos [vamos]
+Eles/Elas/vocês: vão [vo_un] 
+
+# JUGAR [JOGAR]
+Eu: jogo[] 
+tu:  jogas[]
+Você: joga[]  
+Ele/Ela: joga[]    
+Nos: jogamos[] 
+Eles/Elas/vocês: jogam[] 
+
+# LEER [LER]
+Eu: leio [leio] 
+tu: lês [leis] 
+Ele/Ela/voce: le [le_i]    
+Nos: lemos [lemos] 
+Eles/Elas/vocês: leem [lem] 
+
+# LLEGAR [CHEGAR]
+Eu: chego[] 
+tu:  chegas[]
+Você: chega[]  
+Ele/Ela: chegamos[]    
+Nos: chegamos [chegamos] 
+Eles/Elas/vocês: chegam[] 
+
+# NECESITAR
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# MIRAR
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# MOSTRAR
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
 
 # OIR
-Eu: [] /*a*/
-tu:  []/*a*/
-Você: [] /*a*/ 
+Eu: [] 
+tu:  []
+Você: []  
 Ele/Ela: ouve [ouvi] /*oye*/   
-Nos: [] /*a*/
+Nos: [] 
 Eles/Elas/vocês: ouvem [ovem] /*oyen*/
 
+# PAGAR
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# QUERER
+Eu: quero [quero] /*quiero*/
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+
 # RECORDAR
-Eu: [] /*a*/
-tu:  []/*a*/
+Eu: [] 
+tu:  []
 Você: lembra [lembra] /*recuerda*/ 
-Ele/Ela: [] /*a*/   
-Nos: [] /*a*/
-Eles/Elas/vocês: [] /*a*/
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# SEGUIR
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
 
 # SER/ESTAR
 # [PRESENTE]     
@@ -141,12 +349,12 @@ Nos: são [so_un] /*somos*/
 eles/elas/vocês: são [so_un] /*somos*/
 
 # SABER
-Eu: [] /*a*/
-tu:  []/*a*/
-Você: [] /*a*/ 
+Eu: [] 
+tu:  []
+Você: []  
 Ele/Ela: sabe [sabe] /*sabe*/   
-Nos: [] /*a*/
-Eles/Elas/vocês: [] /*a*/
+Nos: [] 
+Eles/Elas/vocês: [] 
 
 # TENER
 Eu: tenho [teno] /*tengo*/
@@ -155,31 +363,86 @@ Ele/Ela/voce: tem [tein] /*tiene*/
 Nos: temos [temos] /*tenemos*/
 Eles/Elas/vocês: têm [tem] /*tienen*/
 
+# TERMINAR 
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# TOMAR (agarrar)
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
 # TOCAR 
 Eu: toco [toco] /*toco*/
-tu:  []/*a*/
-Você: [] /*a*/ 
-Ele/Ela: [] /*a*/   
-Nos: [] /*a*/
-Eles/Elas/vocês: [] /*a*/
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
 
+# TRABAJAR 
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: trabalha [trabalia] /*trabaja*/   
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# TRAER
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: traz []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# USAR
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: usamos [usamos] /*usamos*/
+Eles/Elas/vocês: [] 
 
 # VESTIR
-Eu: [] /*a*/
-tu:  []/*a*/
-Você: [] /*a*/ 
+Eu: [] 
+tu:  []
+Você: []  
 Ele/Ela: veste [veschi] /*viste*/   
-Nos: [] /*a*/
-Eles/Elas/vocês: [] /*a*/
+Nos: [] 
+Eles/Elas/vocês: [] 
 
 
 # VER
 Eu: vejo [vesho] /*veo*/
-tu:  []/*a*/
-Você: [] /*a*/ 
-Ele/Ela: [] /*a*/   
-Nos: [] /*a*/
-Eles/Elas/vocês: [] /*a*/
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# VENDER
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: []    
+Nos: [] 
+Eles/Elas/vocês: [] 
+
+# VENIR
+Eu: [] 
+tu:  []
+Você: []  
+Ele/Ela: vem [vem] /*viene*/   
+Nos: [] 
+Eles/Elas/vocês: [] 
 
 
 
