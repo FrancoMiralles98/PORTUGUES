@@ -174,12 +174,20 @@ Ele/Ela: desculpa[]
 Nos: desculpamos[] 
 Eles/Elas/vocês:desculpam [] 
 
-# ESCRIBIR
+# ESCRIBIR [ESCREVER]
 Eu: escrevo [iscrevo] 
 tu:  escreves [iscreves]
 Ele/Ela/voce: escreve [iscreve]   
 Nos: escrevemos [iscrivemos] 
-Eles/Elas/vocês: escrevem [iscrevem] 
+Eles/Elas/vocês: escrevem [iscrevem]
+
+# ESTAR [ESTAR]
+Eu: estou[] 
+tu:  estas[]
+Você: esta[] 
+Ele/Ela: esta[]  
+Nos: estamos[] 
+Eles/Elas/vocês: estao[] 
 
 # ERRAR [ERRAR] (equivocar)
 Eu: erro[] 
@@ -340,8 +348,7 @@ Ele/Ela: []
 Nos: [] 
 Eles/Elas/vocês: [] 
 
-# SER/ESTAR
-# [PRESENTE]     
+# SER     
 Eu: sou [sou] /*soy*/
 tu: és [es] /*eres*/
 Ele/ela/voce: é [e] /*es/esta*/
@@ -626,9 +633,51 @@ Eles/Elas/vocês: []
 - # verde /*s*/ [verdi]
 - # vermelho/s - rojo [vermelo/s]
 
+-----------------------------------------------------
+# [PREPOSICIONES]
+- # ao - al [ao]
+- # apesar - a pesar [apesar]
+- # á - a la [a]
+- # entre /*s*/ [entri]
+- # aquele - a aquel [aqueli]
+- # aquela - a aquella [aquela]
+- # durante /*s*/
+- # da - de la [da]
+- # dele- de el [deli]
+- # daquele - de aquel [daqueli]
+- # daquela/s - de aquella/s [daquela/s]
+- # daqui- de aqui [daqui]
+- # disso - de eso [diso]
+- # desse - de ese [dese]
+- # dessa/s - de esa/s [desa/s]
+- # deste - de este [deste]
+- # desta - de esta [desta]
+- # del -  de lo [du]
+- # dela-  de ella [dela]
+- # delas-  de ellas [delas]
+- # das - de las [das]
+- # dos - de los [dos]
+- # neste - en este [neste]
+- # nesta - en esta [nesta]
+- # nisso - en eso [nisso]
+- # nesse - en ese [nesse]
+- # nessa - en esa [nessa]
+- # nele - en el [neli]
+- # nela - en ella [nela]
+- # na - en la [na]
+- # no - en el [na]
+- # nos - en los [nos]
+- # nas - en las [nas]
+- # nisto - en esto [nisto]
+- # naquela/s - en aquella/s [naquela/s]
+- # naquilo - en aquello [naquilo]
+- # naquele - a/en aquel [naqueli]
+- # na - en la [na]
+- # pela - por/por la [pela]
+- # pelas - por/por las [pelas]
+- # pelo - por/por el [pelo]
 
-
-
+------------------------------------------------------
 - # porque /*s*/
 - # mas - pero [mas]
 - # se - si [si] {condicional}
