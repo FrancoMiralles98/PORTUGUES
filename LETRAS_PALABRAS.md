@@ -635,12 +635,16 @@ Eles/Elas/vocês: []
 
 -----------------------------------------------------
 # [PREPOSICIONES]
+- # a /*s*/
+- # tam - hay [tem]
+- # até - hasta/incluso [ate]
 - # ao - al [ao]
 - # apesar - a pesar [apesar]
 - # á - a la [a]
 - # entre /*s*/ [entri]
 - # aquele - a aquel [aqueli]
 - # aquela - a aquella [aquela]
+- # desde /*s*/
 - # durante /*s*/
 - # da - de la [da]
 - # dele- de el [deli]
@@ -653,10 +657,13 @@ Eles/Elas/vocês: []
 - # deste - de este [deste]
 - # desta - de esta [desta]
 - # del -  de lo [du]
+- # deles -  de ellos [delis]
 - # dela-  de ella [dela]
 - # delas-  de ellas [delas]
+- # do - del
 - # das - de las [das]
 - # dos - de los [dos]
+- # em - en [em]
 - # neste - en este [neste]
 - # nesta - en esta [nesta]
 - # nisso - en eso [nisso]
@@ -673,9 +680,14 @@ Eles/Elas/vocês: []
 - # naquilo - en aquello [naquilo]
 - # naquele - a/en aquel [naqueli]
 - # na - en la [na]
+- # para /*s*/
+- # por /*s*/
+- # pelos - por los [pelos]
 - # pela - por/por la [pela]
 - # pelas - por/por las [pelas]
 - # pelo - por/por el [pelo]
+- # sim - sin [sim]
+- # sobre /*s*/
 
 ------------------------------------------------------
 - # porque /*s*/
