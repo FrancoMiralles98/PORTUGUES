@@ -690,6 +690,67 @@ Eles/Elas/vocês: []
 - # sobre /*s*/
 
 ------------------------------------------------------
+
+# [FECHAS]
+- # calendario /*s*/
+- # ontem - ayer [ontem]
+- # dia /*s*/ [shia]
+- # mes/es /*s*/
+- # temporada /*s*/
+- # inverno - invierno [inverno]
+- # época /*s*/
+- # século - siglo [seculo]
+- # primavera /*s*/
+- # minutos /*s*/
+- # tempo - tiempo [tempo]
+- # abril /*s*/
+- # outubro - octubre [outubro]
+- # agosto /*s*/
+- # outono - otoño [outono]
+- # dezembro - diciembre [dezembro]
+- # setembro - septiembre [setembro]
+- # verão - verano [verao_un]
+- # junho - junio [juno]
+- # julho - julio [julo]
+- # novembro - noviembre [novembro]
+- # março - marzo [marzo]
+- # maio - mayo [maio]
+- # janeiro - enero [janeiro]
+- # fevereiro - febrebro [fevereiro]
+- # semana /*s*/
+- # momento /*s*/
+- # vez /*s*/
+- # hora /*s*/
+- # prazo - plazo [prazo]
+- # ano/s- año/s [ano/s]
+- # noite - noche [noiche]
+- # sabados /*s*/
+- # domingos /*s*/
+- # amanhã - mañana [amaña]
+- # segunda-feira - lunes [segunda-feira]
+- # tercer-feira - martes [tercer-feira]
+- # quarta-feira - miercols [quarta-feira]
+- # hoye- hoy [oye]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - # porque /*s*/
 - # mas - pero [mas]
 - # se - si [si] {condicional}
