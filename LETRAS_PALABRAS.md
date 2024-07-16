@@ -701,9 +701,28 @@ Eles/Elas/vocês: []
 - # época /*s*/
 - # século - siglo [seculo]
 - # primavera /*s*/
+- # festa - fiesta [festa]
+- # década /*s*/
 - # minutos /*s*/
 - # tempo - tiempo [tempo]
+- # período /*s*/
 - # abril /*s*/
+- # aniversario - cumpleaños [aniversario]
+- # festival /*s*/
+- # inicio /*s*/
+- # etapa /*s*/
+- # feira - feria [feira]
+- # data - fecha [data]
+- # estaçao - estacion [estasao]
+- # fases /*s*/
+- # ciclo /*s*/
+- # madrugada /*s*/
+- # nascimento - nacimiento [nascimiento]
+- # juventude - juventud [juventuchi]
+- # segundo /*s*/
+- # duraçao - duracion [durasao]
+- # instante /*s*/ [istanchi]
+- # geração - generacion [gerasoun]
 - # outubro - octubre [outubro]
 - # agosto /*s*/
 - # outono - otoño [outono]
@@ -728,7 +747,7 @@ Eles/Elas/vocês: []
 - # domingos /*s*/
 - # amanhã - mañana [amaña]
 - # segunda-feira - lunes [segunda-feira]
-- # tercer-feira - martes [tercer-feira]
+- # terça-feira - martes [tercer-feira]
 - # quarta-feira - miercols [quarta-feira]
 - # hoye- hoy [oye]
 
