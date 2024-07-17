@@ -751,10 +751,24 @@ Eles/Elas/vocês: []
 - # quarta-feira - miercols [quarta-feira]
 - # hoye- hoy [oye]
 
-
-
-
-
+-----------------------------------------------------
+# [FAMILIA]
+- # familia /*s*/
+- # esposo /*s*/
+- # esposa /*s*/
+- # pai/papai - papa [pai]
+- # irmãos - hermanos [irmaos]
+- # primos /*s*/
+- # nome - nombre [nome]
+- # comunidade - comunidad [comunidashi]
+- # sobrinha - /*s*/
+- # sobrenome - apellido [sobrenome]
+- # mãe/mamãe - madre [mai]
+- # tia /*s*/ [chia]
+- # neto - nieto [neto]
+- # filho - hijo [filo]
+- # bebe - /*s*/
+- # avos - abuelos [avos]
 
 
 
