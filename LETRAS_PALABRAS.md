@@ -770,11 +770,23 @@ Eles/Elas/vocês: []
 - # bebe - /*s*/
 - # avos - abuelos [avos]
 
+-----------------------------------------------------
 
-
-
-
-
+# [TAMAÑOS]
+- # amplo - aplio [amplo]
+- # medida /*s*/
+- # pequena - pequeña [piquena]
+- # grande /*s*/ [granchi]
+- # longo - largo [longo]
+- # altas /*s*/
+- # curto - corto [curto]
+- # justo /*s*/
+- # largo - ancho
+- # tamanho - tamaño[tamaño]
+- # enorme /*s*/ [enormi]
+- # mesmos - mismos [mesmos]
+- # apertado - apretado [apertado]
+- # compridas - largas [compridas]
 
 
 
