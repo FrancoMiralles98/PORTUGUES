@@ -788,6 +788,63 @@ Eles/Elas/vocês: []
 - # apertado - apretado [apertado]
 - # compridas - largas [compridas]
 
+----------------------------------------------------
+
+# [PROFESIONES]
+- # medico /*s*/
+- # doutor - doctor [doutor]
+- # rei - rey [rei]
+- # maestro - director de orquesta  /*s*/
+- # chefe - jefe [shefi]
+- # guarda - guardia [guarda]
+- # juiza - juez [juiza]
+- # autoridades - /*s*/ [autoridachis]
+- # modelo /*s*/
+- # promotor /*s*/
+- # secretaria /*s*/
+- # autor /*s*/
+- # aluno - alumno/estudiante [aluno]
+- # empresario /*s*/ [impresario]
+- # professor - /*s*/
+- # escritor /*s*/
+- # representante /*s*/ [representanche]
+- # advogado - abogado [advogado]
+- # porta-voz /*s*/
+- # artista /*s*/
+- # capitão - capitan [capitaun]
+- # leitor - lector [leitor]
+- # jornalista - periodista [jornalista]
+- # dirigentes /*s*/ [dirishentes]
+- # coronel /*s*/
+- # pintor /*s*/
+- # principe /*s*/
+- # usuarios /*s*/
+- # pesquisador - investigador [pesquisador]
+- # dona - dueña [dona]
+- # agente /*s*/ [agenchi]
+- # comandante - /*s*/ [comandanche]
+- # bispo - obispo /*s*/
+- # emprego - empleo [imprego]
+- # professão - profesion [profesao]
+- # conselheira - consejera [conseleira]
+- # espectadora /*s*/
+- # especialistas /*s*/
+- # quimica /*s*/
+- # motorista - chofer [motorista]
+- # gerente - /*s*/ [sherenche]
+- # fazendeira - granjero [fazendeira]
+- # engenheiros - engenieros [engenheiros]
+- # pescadores /*s*/
+- # policia - policia /*s*/
+- # oficiais - oficiales [oficiais]
+- # carteiro - cartero /*s*/
+- # profissional - profesional [profisional]
+- # especialidade - especialidad [especialidache]
+- # ocupacão - ocupacion/trabajo [ocupasoun]
+
+
+
+
 
 
 
