@@ -842,6 +842,61 @@ Eles/Elas/vocês: []
 - # especialidade - especialidad [especialidache]
 - # ocupacão - ocupacion/trabajo [ocupasoun]
 
+-----------------------------------------------------------
+
+# [DESCRIPCION_HOGAR]
+- # cama /*s*/
+- # mesa /*s*/
+- # telefone - telefono [telefone]
+- # cadeira - silla [cadeira]
+- # espelho - espejo [espelio]
+- # televisão - television [televisao]
+- # janela - ventana [shanela]
+- # lustre/lãmpada - lampara [lustre]
+- # berco - cuna [berso]
+- # forno - horno [forno]
+- # porta - puerta [porta]
+- # chão - piso [shaun]
+- # teto - techo [teto]
+- # parede - pared [paredshi] /*s*/
+- # tv /*s*/
+- # escritorios - oficina /*s*/
+- # tapete - alfombra/tapete [tapeche]
+- # banheiro - baño [banheiro]
+- # sacada - balcon [sacada]
+- # cobertor /*s*/
+- # banho - baño [bano]
+- # apartamento /*s*/
+- # limpas - limpia [limpas]
+- # sofa /*s*/
+- # cortina /*s*/
+- # geladeira - heladera/navera [sheladeira]
+- # portão - porton [portaun]
+- # andarsh - piso(departamento) [andarsh]
+- # moveis - muebles [moveis]
+- # casa /*s*/
+- # quarto - cuarto/dormitorio [quarto]
+- # tomada - tomacorriente - [tomada]
+- # travesseiro - almohada [traveseiro]
+- # aquecimento - calefaccion [aquesimento]
+- # sabão - jabon [sabao]
+- # xampu - shampu [shampu]
+- # toalha - toalla [toalia]
+- # brinquedo - juguete [brinquedo]
+- # escada - escalera [escada]
+- # chuveiro - ducha [shuveiro]
+- # ferramenta - herramienta [ferramenta]
+- # oleo - aceite [oleo]
+- # fonte - fuente [fonshe]
+- # muros /*s*/
+- # estrutura /*s*/
+- # lencol -sabana [lensol]
+- # reforma /*s*/
+
+
+
+
+
 
 
 
