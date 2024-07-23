@@ -893,6 +893,60 @@ Eles/Elas/vocês: []
 - # lencol -sabana [lensol]
 - # reforma /*s*/
 
+---------------------------------------------
+
+# [MEDIDAS]
+- # grama - gramo
+- # centimetro /*s*/
+- # lote /*s*/
+- # litro /*s*/
+- # quilo - kilo /*s*/
+- # trimestre /*s*/
+- # quilometros - kilometors /*s*/
+- # media - promedio [mechia]
+- # metros /*s*/
+- # total
+
+-----------------------------------------------
+
+# [DESCRIPCION_DE_PERSONAS]
+- # velha - vieja [velia]
+- # primeiro - primero [primeiro]
+- # jovem - joven [shovem]
+- # bonito /*s*/
+- # maior - mas grande [maiorsh]
+- # doente - enfermo [doenchi]
+- # diferente /*s*/ [diferenche]
+- # melhor - mejor [meliorsh]
+- # possivel - posible [posivel]
+- # reais - reales [reais]
+- # verdadeiro - verdadero [verdadeiro]
+- # nova - nuevo /*s*/
+- # importantes /*s*/
+- # real /*s*/
+- # dura /*s*/
+- # menor - mas pequeño /*s*/
+- # militar /*s*/
+- # popular /*s*/
+- # pessoais - personales [pesoais]
+- # publico /*s*/
+- # segura /*s*/
+- # cultural /*s*/
+- # unico /*s*/
+- # suficiente /*s*/ [suficienchi]
+- # humano /*s*/
+- # principal /*s*/
+- # fortes - fuerte [fortes]
+- # simple /*s*/
+- # pior - peor [pior]
+- # familiar /*s*/
+- # vago - vacante/desocupado /*s*/
+- # impossivel - imposible /*s*/
+- # nacional /*s*/
+- # industrial /*s*/
+
+
+
 
 
 
