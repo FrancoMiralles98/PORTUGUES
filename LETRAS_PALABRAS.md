@@ -944,17 +944,34 @@ Eles/Elas/vocês: []
 - # impossivel - imposible /*s*/
 - # nacional /*s*/
 - # industrial /*s*/
-
-
-
-
-
-
-
-
-
-
-
+- # pobre /*s*/
+- # franco /*s*/
+- # naturais - naturales [naturais]
+- # má/mau - mala/malo [ma]
+- # historica /*s*/
+- # responsaveis - responsables [responsaveis]
+- # definitiva /*s*/
+- # calma - calmada/tranquila /*s*/
+- # rico /*s*/
+- # recente - reciente [recenche]
+- # muita - mucha
+- # ultima /*s*/
+- # certo - cierto/correcto [certo]
+- # frio /*s*/
+- # querida /*s*/
+- # incrivel - increible [incrivel]
+- # barato /*s*/
+- # perigosa - peligrosa /*s*/
+- # confortavel - comodo [confortavel]
+- # vazios - vacios /*s/*
+- # seco /*s*/
+- # caro /*s*/
+- # suja - sucia /*s*/
+- # excelente /*s*/
+- # facil /*s*/
+- # rapido /*s*/
+- # estrangeiro - extranjero /*s*/
+- # puoco - poco /*s*/
 
 
 
