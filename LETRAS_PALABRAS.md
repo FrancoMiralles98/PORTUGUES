@@ -973,7 +973,54 @@ Eles/Elas/vocês: []
 - # estrangeiro - extranjero /*s*/
 - # puoco - poco /*s*/
 
+------------------------------------------------------
 
+# [VIDA_DIARIA]
+- # existe /*s*/
+- # sonha - soñar [sonia]
+- # produzem - producen /*s*/
+- # prova - prueba 
+- # aparecem - aparecen
+- # apresenta - presenta
+- # leva - lleva 
+- # parece /*s*/
+- # cabem - caben
+- # acaba /*s*/
+- # contamos /*s*/
+- # procuro - busco /*s*/
+- # comeca - comienza [comenza]
+- # respeitamos - respetamos 
+- # assina - firma
+- # serve - sirve
+- # fecha - cierra [fesha]
+- # depende /*s*/
+- # rouba - roba 
+- # importam - importan
+- # entram - entran
+- # há - hay
+- # escolhe - escoge [escolie]
+- # sienta - senta
+- # escuta - escucha
+- # envia /*s*/
+- # aprende /*s*/
+- # mentem - mienten 
+- # explica /*s*/
+- # prefere - prefiere [prefieri]
+- # constrio - construye 
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
 
 
 
