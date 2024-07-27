@@ -1007,24 +1007,34 @@ Eles/Elas/vocês: []
 - # explica /*s*/
 - # prefere - prefiere [prefieri]
 - # constrio - construye 
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-
-
-
-
+- # convida - invita 
+- # cantam - cantan
+- # cresem - crecen
+- # ofereço - ofresco [ofereso]
+- # agradeço - agradezco [agradeso]
+- # mora - vive 
+- # voo - vuelo
+- # ensina - enseña
+- # juntas - [shuntas]
+- # choramos - lloramos 
+- # viaja - [viasha]
+- # guarda - /*s*/
+- # estudamos - estudiamos
+- # riem - rien
+- # suponho - supongo [supoino]
+- # movo - muevo
+- # visita /*s*/
+- # atrasa /*s*/
+- # beija - besa [beisha]
+- # melhora - mejora [meliora]
+- # grita /*s*/
+- # enche - llenan [enshi]
+- # aponta - señala para [aponta]
+- # acorda - despierta
+- # treina - entrena
+- # observa /*s*/
+- # cuida /*s*/
+- # lançamos - lanzamos [lanzamos]
 
 - # porque /*s*/
 - # mas - pero [mas]
