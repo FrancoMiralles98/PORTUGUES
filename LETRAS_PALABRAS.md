@@ -1036,6 +1036,70 @@ Eles/Elas/vocês: []
 - # cuida /*s*/
 - # lançamos - lanzamos [lanzamos]
 
+-----------------------------------------------
+
+# [ADVERBIOS]
+- # tanto /*s*/
+- # cedo - temprano 
+- # ali - alli 
+- # somente - solamente [somenchi]
+- # pouco - poco
+- # muito - mucho
+- # especialmente /*s*/
+- # aonde - a donde 
+- # mal 
+- # absolutamente
+- # embaixo - abajo [enbaisho]
+- # practicamente [pracchicamenche]
+- # atualmente - actualmente [atualmenche]
+- # geralmente - [geralmenche]
+- # aí - ahi
+- # demais - demasiado
+- # tão - tan 
+- # enquanto - mientras
+- # além - ademas 
+- # nada
+- # gratis - [grachis]
+- # devagar - despacio [devagash]
+- # no entanto - sin embargo
+- # depois - despues
+- # atraves 
+- # só - solo
+- # já - ya
+- # novamente - nuevamente
+- # aqui 
+- # sempre - siempre
+- # longe - lejos
+- # facilmente
+- # igualmente
+- # exatamente - exactamente
+- # mais - mas
+- # definitivamente
+- # quase - casi [cuasi]
+- # nunca
+- # menos
+- # inmediatamente
+- # perto - cerca
+- # dentro
+- # felizmente - afortunadamente
+- # bastante
+- # recientemente
+- # agora - ahora
+- # provavelmente - probablemente
+- # fora - afuera
+- # assim - asi 
+- # logo - luego
+- # lá - alla
+- # então - entonces
+- # tambem - tambien
+- # acima - sobre/ encima
+- # bem - bien
+- # ainda - todavia/aun
+- #
+- #
+- #
+- #
+
 - # porque /*s*/
 - # mas - pero [mas]
 - # se - si [si] {condicional}
