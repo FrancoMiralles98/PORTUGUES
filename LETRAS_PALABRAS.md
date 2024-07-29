@@ -1096,6 +1096,11 @@ Eles/Elas/vocês: []
 - # bem - bien
 - # ainda - todavia/aun
 
+
+
+
+
+
 - # porque /*s*/
 - # mas - pero [mas]
 - # se - si [si] {condicional}
@@ -1134,138 +1139,68 @@ Eles/Elas/vocês: []
 
 # [DESCRIBE_LUGARES]
 
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
+- # hotel 
+- # jardim - jardin
+- # aeroporto - aereopuerto
+- # restaurante
+- # praia - playa
+- # rua - callse [jua]
+- # castelo - castillo
+- # cidade - cuidad
+- # igreja - iglesia [igresha]
+- # empresa 
+- # mercado
+- # zona
+- # praça - plaza [praza]
+- # universidade - universidad
+- # banco
+- # sala
+- # região - region [regiao]
+- # classe - clase
+- # terreno
+- # instituçao - institucion [instituciao]
+- # area
+- # propiedade - propiedad
+- # hospital
+- # tribunais - tribunales
+- # ilha - isla [ilia]
+- # museu - museo 
+- # edificio
+- # palacio
+- # povo - pueblo
+- # bairro - barrio
+- # territorio
+- # lar - hogar [lash]
+- # prisão - prision
+- # parque
+- # estrada - carretera
+- # residencia
+- # localidade - localidad
+- # colegio
+- # bar
+- # patio
+- # avenida
+- # distrito
+- # municipio
+- # fronteira - frontera
+- # continente
+- # biblioteca
+- # local
+- # monte
+- # distancia
+- # padaria - panaderia
+- # capital
+- # supermercado
+- # campo
+- # esquina
+- # ponte - puente
+- # estadio
+- # quadrada - cuadrada
+- # clube - club
+- # galeria
+- # livreria - libreria
 
-
+---------------------------------------------------------
 
 
 
