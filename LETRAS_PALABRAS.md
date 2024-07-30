@@ -1096,45 +1096,6 @@ Eles/Elas/vocês: []
 - # bem - bien
 - # ainda - todavia/aun
 
-
-
-
-
-
-- # porque /*s*/
-- # mas - pero [mas]
-- # se - si [si] {condicional}
-- # nem - ni [nei]
-- # que /*s*/
-- # como /*s*/
-- # ou - o [o_u]
-- # dai - luego/de ahi/entonces [dai]
-- # acontence - pasa/sucede [acontece]
-- # do - del [do]
-- # como /*s*/
-- # ou - o [ou]
-- # sem - sin [sem]
-- # estão - estan [estau]
-- # este - /*s*/
-- # preciso - necesito [preciso]
-- # para - a [para] {referise lugar,accion}
-- # agora - ahora [agora]
-- # so - solo [so]
-- # vai - va a/vamos [vai]
-- # loja- tienda [losha]
-- # insetos - insectos [insetos]
-- # nova -- nuevo [nova]
-- # hoje - hoy [hoshi]
-- # mas - pero [mas]
-- # mosca - /*s*/
-- # meu - mio [meu]
-- # o seu - su/tu [seu]
-- # em - en [em]
-- # na - en [na]
-- # no - en el [no]
-- # minha - mia [mina]
-- # temos - tenemos [temos]
-
 ---------------------------------------------------------
 
 # [DESCRIBE_LUGARES]
@@ -1202,7 +1163,7 @@ Eles/Elas/vocês: []
 
 ---------------------------------------------------------
 
-
+# [DESCRIBE_LUGARES_COMUNES]
 
 
 
