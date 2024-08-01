@@ -1165,6 +1165,72 @@ Eles/Elas/vocês: []
 
 # [DESCRIBE_LUGARES_COMUNES]
 
+- # papel
+- # olho - ojo [ulio]
+- # avião - avion [aviaoun]
+- # cabeça - cabeza [cabeza]
+- # moto
+- # mala - maleta 
+- # ciosas - cosas
+- # dolar
+- # texto
+- # cara 
+- # objeto
+- # as vezes - a veces
+- # aos - a los/los
+- # em cima - encima 
+- # documento
+- # revista
+- # ouro - oro 
+- # filme - pelicula
+- # pagina 
+- # correntes - corrientes
+- # veiculo - vehiculo 
+- # alcool - alcohol
+- # foto
+- # ponta - punta 
+- # banda
+- # codigo
+- # aparelho - aparato [aparelio]
+- # motor
+- # bandeira - bandera
+- # moeda - moneda
+- # peça - pieza
+- # coluna - columna
+- # maquina
+- # marco - limite
+- # automovel - automovil
+- # nota
+- # arma
+- # caixas - cajas [caishas]
+- # diferenças - diferencias 
+- # rodas - ruedas 
+- # fotografia
+- # pente - peine [penche]
+- # envelope - sobre
+- # oculos - gafas
+- # diario
+- # teclado
+- # escova - cepillo 
+- # ventilador
+- # celular
+- # folha - hoja [folia]
+- # tela - pantalla 
+- # pílha - pila
+- # licença - licencia
+- # pedaços - pedazos
+- # presente - regalo
+- # guarda-chuvas - paraguas 
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+
 
 
 - # ferias- vacaciones [ferias]
