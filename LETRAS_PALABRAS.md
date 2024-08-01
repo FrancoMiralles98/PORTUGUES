@@ -1167,12 +1167,6 @@ Eles/Elas/vocês: []
 
 
 
-
-
-
-
-
-
 - # ferias- vacaciones [ferias]
 
 - # palavra - /*s*/
