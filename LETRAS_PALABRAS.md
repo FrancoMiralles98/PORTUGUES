@@ -1221,17 +1221,63 @@ Eles/Elas/vocês: []
 - # pedaços - pedazos
 - # presente - regalo
 - # guarda-chuvas - paraguas 
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
 
+----------------------------------------------------------------
+
+# [DESCRIBE_PERSONAS]
+- # populaçao - poblacion [populaciaoun]
+- # gente
+- # noiva - prometida
+- # comissão - comision [comisao]
+- # senhor - señor
+- # pessoa - persona 
+- # vizinha - vecina
+- # cidadão - ciudadano
+- # casal - pareja
+- # greve - huelga
+- # audiencia - audiencia 
+- # individuos
+- # vitimas - victimas 
+- # rapariga - niña 
+- # inimigos - enemigos 
+- # humanidade - humanidad
+- # rapaz - niño
+- # socia 
+- # sujeito - sujeto
+- # garota - chica/muchacha
+- # testemunha - testigo
+- # garoto - chico/muchacho
+- # genero 
+- # namorado - novio
+- # proximo 
+- # adultos 
+- # idade - edad 
+- # multidão - multitud 
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
 
 
 - # ferias- vacaciones [ferias]
