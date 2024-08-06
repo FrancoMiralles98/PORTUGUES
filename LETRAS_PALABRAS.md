@@ -1261,39 +1261,44 @@ Eles/Elas/vocês: []
 
 # [USO_de_pronombres]
 - # lhes - les 
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
-- #
 
-
-
-
+# [NUMEROS]
+- # cinco
+- # seis
+- # sete - 7 [seche]
+- # tres
+- # quatro
+- # duas - 2
+- # um/a - uno/a
+- # onze
+- # doze
+- # oito - 8
+- # treze
+- # nove - 9
+- # dez - 10
+- # quatorze
+- # dezessete - 17
+- # dezenove - 19
+- # trinta -30
+- # dezesseis - 16
+- # dezoito -18
+- # vinte - 20
+- # quinze - 16
+- # cem - 100
+- # oitenta
+- # mil
+- # terceiro - tercer
+- # zero
+- # milhores - millones
+- # milhao - millon
+- # numero
+- # setima - septima
+- # maioria - mayoria
+- # sexta
+- # oitava - octava
+- # quinto 
+- # nona - novena
+- # dobro - doble
+- # par
+- # metade - mitad
+- # algumas - algunas
