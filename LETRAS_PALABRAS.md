@@ -1302,3 +1302,22 @@ Eles/Elas/vocês: []
 - # par
 - # metade - mitad
 - # algumas - algunas
+
+# [identifica_personas]
+- # todas
+- # qualquer - cualquier
+- # estes - estos
+- # estas 
+- # cada
+- # varias
+- # outra - otra
+- # nenhum - ningun/o
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
+- #
