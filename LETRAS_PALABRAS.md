@@ -1303,6 +1303,8 @@ Eles/Elas/vocês: []
 - # metade - mitad
 - # algumas - algunas
 
+
+
 # [identifica_personas]
 - # todas
 - # qualquer - cualquier
