@@ -1305,6 +1305,8 @@ Eles/Elas/vocês: []
 
 
 
+58
+
 # [identifica_personas]
 - # todas
 - # qualquer - cualquier
