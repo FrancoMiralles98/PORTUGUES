@@ -1303,7 +1303,7 @@ Eles/Elas/vocês: []
 - # metade - mitad
 - # algumas - algunas
 
-daw
+fichar
 
 58
 
